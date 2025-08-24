@@ -1,11 +1,11 @@
 # Bad-Board
 
-A collaborative whiteboard application built using MERN stack in which you can create rooms and collab with your friends to work on the whiteboard. The goal of this project is to demonstrate my skills of building full-stack collaborative application using Socket.io and MERN technologies.
+Built a real-time collaborative whiteboard app using Django, Python Socket.IO, and React.js.
 
 ## Tech Stack Used
 
 1. Frontend - Reactjs
-2. Backend - Express.js, Nodejs
+2. Backend - Django
 3. Database - MongoDB
-4. Collaborative Feature - Socket.io
+4. Collaborative Feature - Python Socket.IO
 
